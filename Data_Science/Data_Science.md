@@ -1,7 +1,7 @@
 ```
 7/26/17 First Commit
 ```
-#### (Mis) What is different between Random Forests and Gradient Boosted Trees?
+#### (H, Mis) What is different between Random Forests and Gradient Boosted Trees?
 
 From [1]:
 > Algorithmic difference is; Random Forests are trained with random sample of data (even more randomized cases available like feature randomization) and it trusts randomization to have better generalization performance on out of train set.
@@ -11,7 +11,7 @@ On the other spectrum, Gradient Boosted Trees algorithm additionally tries to fi
 So the best choice depends to the case your have as always.
 [1]: http://www.erogol.com/different-random-forests-gradient-boosted-trees/
 
-#### (SVM) Can you use Support Vector Machine to do multi-class classification?
+#### (M, SVM) Can you use Support Vector Machine to do multi-class classification?
 
 LibSVM uses the *one-against-one* approach for multi-class learning problems. From the [FAQ][1]:
 
@@ -24,7 +24,7 @@ LibSVM uses the *one-against-one* approach for multi-class learning problems. Fr
 [1]: http://www.csie.ntu.edu.tw/~cjlin/libsvm/faq.html#f419
 [2]: http://www.csie.ntu.edu.tw/~cjlin/papers/multisvm.pdf
 
-#### (Overfitting) What methods can be used to prevent overfitting?
+#### (H, Overfitting) What methods can be used to prevent overfitting?
 
 > simpler model structure
 
@@ -42,6 +42,6 @@ LibSVM uses the *one-against-one* approach for multi-class learning problems. Fr
 
 > Bayesian
 
-#### (Naive Bayes) What are the disadvantages of using a naive bayes for classification?
+#### (E, Naive Bayes) What are the disadvantages of using a naive bayes for classification?
 
-#### (Regularization) What is the difference between Ridge and Lasso regression?
+#### (E, Regularization) What is the difference between Ridge and Lasso regression?
