@@ -2,10 +2,10 @@
 7/26/17 First Commit
 ```
 #### Regularization
-###What is the difference between Ridge and Lasso regression?
+### What is the difference between Ridge and Lasso regression?
 
 #### SVM
-###Can you use Support Vector Machine to do multi-class classification?
+### Can you use Support Vector Machine to do multi-class classification?
 
 LibSVM uses the *one-against-one* approach for multi-class learning problems. From the [FAQ][1]:
 
