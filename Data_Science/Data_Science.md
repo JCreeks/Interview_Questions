@@ -33,3 +33,5 @@ LibSVM uses the *one-against-one* approach for multi-class learning problems. Fr
 > early stopping
 
 > Bayesian
+
+#### (Naive Bayes) What are the disadvantages of using a naive bayes for classification?
