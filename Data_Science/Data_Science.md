@@ -15,3 +15,14 @@ LibSVM uses the *one-against-one* approach for multi-class learning problems. Fr
 
 [1]: http://www.csie.ntu.edu.tw/~cjlin/libsvm/faq.html#f419
 [2]: http://www.csie.ntu.edu.tw/~cjlin/papers/multisvm.pdf
+
+#### (Overfitting) What methods can be used to prevent overfitting?
+
+> simpler model structure
+> regularization
+> data augemntation
+> dropout
+> Boostrap/Bagging
+> ensemble
+> early stopping
+> Bayesian
